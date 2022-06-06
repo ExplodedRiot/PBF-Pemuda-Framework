@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\database"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\instalasi"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\public"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\resources"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\routes"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\storage"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\tests"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\app"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\bootstrap"
+		},
+		{
+			"path": "..\\..\\..\\..\\Kuliah\\Semester 6\\Pemrograman Berbasis Framework\\sample\\config"
+		}
+	],
+	"settings": {}
+}
