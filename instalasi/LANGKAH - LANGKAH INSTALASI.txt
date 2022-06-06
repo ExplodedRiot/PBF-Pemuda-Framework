@@ -1,0 +1,11 @@
+1. Pastikan sudah menginstall compsoer dan xampp php versi 7.3 keatas / kalau hosting pastikan php versi 7.3 keatas
+2. Buat database baru di phpmyadmin sim_rental_mobil
+2. Masuk melalui cmd ke folder utama source code , jalan kan copy .env.example .env , lalu buka .env isikan di dalam nya 
+DB_DATABASE=sim_rental_mobil
+DB_USERNAME=root
+DB_PASSWORD=  (password defaultnya biasanya kosong)
+3. jalankan kembali di cmd , composer install (kalau sudah) , jalankan php artisan migrate (kalau sudah) jalankan php artisan db:seed
+4. setelah itu access website menggunakan web browser (chrome/mozila/dll) http://localhost/sim_rental_mobil/public => atau kalau sudah 
+dihosting bisa diakses langsung domainnya jika sudah diatur di domain management nya
+
+kalau ada kesusahan bisa mengubungi abdulloh aqil :08560801411 
